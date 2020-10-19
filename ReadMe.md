@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This is a calculator application. Its calculates numbers._
+_This is a calculator application. Its calculates numbers._
 
 ## Setup/Installation Requirements
 
